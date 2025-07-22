@@ -30,21 +30,6 @@
 
 ---
 
-## 🧠 Tech Stack & Skills
-
-- **Languages:** Python, SQL  
-- **Databases:** MySQL  
-- **Libraries/Tools:** OpenCV, MediaPipe, Flask, Streamlit, PyAutoGUI, Tkinter, Pynput  
-- **Concepts:** Real-time Systems, AI/ML Foundations, UI/UX Integration  
-
----
-
-## 📊 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adit020&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/paditya20)](https://linkedin.com/in/paditya20)
