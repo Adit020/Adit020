@@ -6,27 +6,49 @@
 
 ---
 
-## 🚀 Projects That Define Me
+## 🚀 Featured Projects
 
 ### 🎙️ [Speech Recognition Assistant](https://github.com/Adit020/speech-recognition-assistant)
-> Voice-activated real-time search assistant  
-**Tech:** Python, Tkinter, Google Speech Recognition API  
-• Converts speech to text with high accuracy  
-• Alexa-inspired UI with multithreading for smooth UX  
-• JSON-configured user preferences  
+Voice-activated assistant that processes real-time user commands using speech recognition.
 
-### 🖐️ [Hand-Tracking Virtual Mouse](https://github.com/Adit020/virtual-mouse)
-> Hands-free virtual mouse using real-time computer vision  
-**Tech:** Python, OpenCV, MediaPipe, PyAutoGUI, Pynput  
-• Gesture-controlled pointer and click simulation  
-• Fast, responsive UI using AI-powered tracking  
+**Tech Stack:** Python, Tkinter, Google Speech Recognition API, Multithreading  
+**Highlights:**
+- Real-time speech-to-text with Google API
+- Alexa-inspired GUI using Tkinter
+- Non-blocking multithreaded backend for seamless interaction
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square)
+![Voice Recognition](https://img.shields.io/badge/-Voice--Recognition-lightgrey?style=flat-square)
+
+---
+
+### 🖐️ [Virtual Mouse with Hand Tracking](https://github.com/Adit020/virtual-mouse)
+AI-powered virtual mouse using computer vision and hand gestures for contactless control.
+
+**Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI, Pynput  
+**Highlights:**
+- Gesture-based clicks and cursor movement
+- Real-time finger landmark tracking via MediaPipe
+- Replaces traditional mouse interaction with camera-based control
+
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-yellow?style=flat-square)
+![AI Project](https://img.shields.io/badge/-AI%20Project-purple?style=flat-square)
+
+---
 
 ### 😊 [MoodSync – Emotion-Based Entertainment Recommender](https://github.com/Adit020/moodsync)
-> Real-time system recommending media based on your facial expression  
-**Tech:** Python, Flask, Streamlit, OpenCV, MediaPipe, Spotify API, OMDb API  
-• Facial emotion classification from webcam input  
-• Personalized Spotify and movie recommendations  
-• Seamless UI with backend-frontend synergy  
+AI system that recommends music and movies based on your detected facial emotions.
+
+**Tech Stack:** Python, Flask, Streamlit, OpenCV, MediaPipe, Spotify API, OMDb API  
+**Highlights:**
+- Real-time emotion classification via webcam
+- Dynamic media suggestions using Spotify and OMDb APIs
+- Streamlit frontend with inline CSS customization
+
+![Emotion Detection](https://img.shields.io/badge/-Emotion--Detection-orange?style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
+  
 
 ---
 
