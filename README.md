@@ -64,9 +64,8 @@ AI system that recommends music and movies based on your detected facial emotion
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adit020&show_icons=true&locale=en&layout=compact" alt="adit020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adit020&show_icons=true&locale=en" alt="adit020" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adit020&" alt="adit020" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adit020&show_icons=true&locale=en" alt="adit020" /></p>
 
 ---
 
